@@ -19,3 +19,6 @@ templates:
 # Rendition) control codes (in decimal). Use 'stack ls stack-colors --basic'
 # to see the current sequence.
 # stack-colors: STYLES
+
+# Disable "Warning: nix (Nix) is on the PATH"
+notify-if-nix-on-path: false
