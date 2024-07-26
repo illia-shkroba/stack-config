@@ -22,3 +22,6 @@ templates:
 
 # Disable "Warning: nix (Nix) is on the PATH"
 notify-if-nix-on-path: false
+
+# Disable "Save Hackage credentials to file"
+save-hackage-creds: false
